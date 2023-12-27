@@ -1,4 +1,11 @@
-modules
+Create node project
+
+- Add express + GET /home
+- Add mongoose + connection
+- Add Model
+- Add CRUD
+
+- modules
 
 - express.js
 
