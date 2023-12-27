@@ -1,3 +1,9 @@
+npm init
+
+npm install nodemon
+
+criar arquivo index.js
+
 modules
 
 - express.js

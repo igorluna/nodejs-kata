@@ -1,15 +1,6 @@
-# nodejs-kata
+Kata Node.js
 
-Esclarecimentos
-Esse kata foi criado usando o seguinte video como inspiração.
-
-- https://www.youtube.com/watch?v=IOfDoyP1Aq0
-
-Se voce não for familiarizado com node acompanhe o video primeiro
-
-KATA
-
-Criar uma CRUD para gerenciamento de usuários
+Criar uma CRUD para gerenciamento de USER
 
 USER Model:
 
@@ -38,7 +29,11 @@ Should have
   - Content Type
   - Date
 
-Bonus points
+Bonus
 
 - Using EJS, create a view for all users
 - Using Partials
+
+For questions
+
+- https://www.youtube.com/watch?v=IOfDoyP1Aq0
